@@ -1,5 +1,5 @@
 # MythBuster
-We're Team 60 and this is our Dungeon Crawler for CS 2340! Read on for more information, or visit this link to watch a demo: https://www.youtube.com/watch?v=XBG8cKt8fcc&t=55s
+We're Team 60 and this is our Dungeon Crawler for CS 2340! Read on for more information, or visit this link to watch a demo: https://www.youtube.com/watch?v=XBG8cKt8fcc
 
 <h2> Player Controls </h2>
 
